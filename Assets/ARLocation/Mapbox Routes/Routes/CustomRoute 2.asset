@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: CustomRoute 2
+  m_EditorClassIdentifier: 
+  Name: hufts
+  Points:
+  - Location:
+      Latitude: 37.598403
+      Longitude: 127.057041
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: "\uC2DC\uC791\uD558\uC790!"
+    Instruction: 
+  - Location:
+      Latitude: 37.598502
+      Longitude: 127.057327
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: "\uC678\uB300 \uC785\uAD6C  \uB2E4\uC640\uAC10 "
+    Instruction: "\uC678\uB300\uB4E4\uC5B4\uAC00\uC790"
+  - Location:
+      Latitude: 37.597759
+      Longitude: 127.057604
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: "\uC6B4\uB3D9\uC7A5\uAE4C\uC9C0 \uAC08\uAC74\uAC00"
+    Instruction: "\uB189 \uC5EC\uAE30\uAE4C\uC9C0"
+  SceneViewScale: 1

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: ACLab
+  m_EditorClassIdentifier: 
+  Name: ACLAB
+  Points:
+  - Location:
+      Latitude: 37.604234
+      Longitude: 487.059413
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uC624\uB978\uCABD\uC73C\uB85C \uAC00\uC138\uC694."
+  - Location:
+      Latitude: 37.604859
+      Longitude: 487.058021
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uBCF8\uAD00\uC785\uB2C8\uB2E4."
+  - Location:
+      Latitude: 37.606285
+      Longitude: 487.056375
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uC624\uB974\uB9C9\uAE38\uB85C \uAC00\uC138\uC694."
+  - Location:
+      Latitude: 37.606025
+      Longitude: 487.055398
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uCC9C\uC7A5\uAD00\uB4A4\uB85C \uAC00\uC138\uC694."
+  - Location:
+      Latitude: 37.606076
+      Longitude: 487.054824
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 37.606382
+      Longitude: 487.054551
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uACC4\uB2E8\uC744 \uB0B4\uB824\uAC00\uC138\uC694."
+  - Location:
+      Latitude: 37.606153
+      Longitude: 487.054059
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: "\uC735\uD569\uC608\uC220\uC13C\uD130\uC5D0 \uC5B4\uC11C\uC624\uC138\uC694."
+  SceneViewScale: 1
