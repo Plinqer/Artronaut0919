@@ -2,6 +2,7 @@
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using DilmerGames.Core.Singletons;
 
 public class ARDebugManager : Singleton<ARDebugManager>
 {   

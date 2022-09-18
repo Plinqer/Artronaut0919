@@ -4,6 +4,7 @@ using UnityEngine.Events;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using DilmerGames.Core.Singletons;
 
 [RequireComponent(typeof(ARAnchorManager))]
 public class ARDrawManager : Singleton<ARDrawManager>

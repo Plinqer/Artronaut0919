@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.kyrylokuzyk.arfoundationremote": "file:../Assets/Plugins/ARFoundationRemoteInstaller/com.kyrylokuzyk.arfoundationremote.tgz",
     "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.8.4.tgz",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.ide.rider": "2.0.7",
