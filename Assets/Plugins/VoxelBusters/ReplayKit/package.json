@@ -1,0 +1,14 @@
+{
+    "name": "com.voxelbusters.replaykit",
+    "displayName": "Replay Kit",
+    "version": "1.6.2",
+    "unity": "2018.3",
+    "description": "ReplayKit allows to easily screen record your games on Unity. It supports both iOS and Android platforms with unified and simple API.",
+    "keywords": [ "voxelbusters", "replaykit" ],
+    "license": "MIT",
+    "author": {
+        "name": "Voxel Busters",
+        "email": "support@voxelbusters.com",
+        "url": "https://www.voxelbusters.com"
+    }
+}

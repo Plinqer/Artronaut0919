@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745773708075",
+    "firebase_url": "https://artronaut-karts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "artronaut-karts",
+    "storage_bucket": "artronaut-karts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745773708075:android:b46ccccbeb98196e0c4b6e",
+        "android_client_info": {
+          "package_name": "com.Kart.Artronauts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745773708075-6gg2ne7rhfe5auusjedd4f24sm2qpvnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4l-dyY1PZA-y4vjOMYNjAZTLUqE2Ejj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745773708075-6gg2ne7rhfe5auusjedd4f24sm2qpvnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

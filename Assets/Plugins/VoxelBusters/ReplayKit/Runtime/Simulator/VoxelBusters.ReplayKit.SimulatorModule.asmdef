@@ -1,0 +1,15 @@
+{
+    "name": "VoxelBusters.ReplayKit.SimulatorModule",
+    "references": [
+        "VoxelBusters.CoreLibrary",
+        "VoxelBusters.ReplayKit"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

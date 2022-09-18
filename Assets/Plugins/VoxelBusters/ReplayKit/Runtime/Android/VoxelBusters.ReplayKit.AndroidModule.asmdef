@@ -1,0 +1,19 @@
+{
+    "name": "VoxelBusters.ReplayKit.AndroidModule",
+    "references": [
+        "VoxelBusters.CoreLibrary",
+        "VoxelBusters.CoreLibrary.NativePlugins",
+        "VoxelBusters.ReplayKit"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

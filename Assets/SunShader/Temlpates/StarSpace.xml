@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<StarsSpaceGenerator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" StarsColor1="1,0,0,1" StarsColor2="0,0,1,1" StarsPrimary="1,1,1,1" StarsBrightPrimary="1" StarsBrightSecond="0.5" StarsSeed="1" CloudColor1="1,0,0,1" CloudColor2="0,0,1,1" CloudPrimary="0.9,1,0.1,1" Zoom="1" VPMix="0.5" LightStage="0.8" ScaleStage="0.5" Bright="3" CloudSeed="1" TextureSize="_512" Exposure="2.54" />

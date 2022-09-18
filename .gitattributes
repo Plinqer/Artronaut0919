@@ -29,14 +29,14 @@
 *.dae                binary
 *.dxf                binary
 *.FBX                binary
-*.fbx                binary
+*.fbx filter=lfs diff=lfs merge=lfs -text
 *.jas                binary
 *.lws                binary
 *.lxo                binary
 *.ma                 binary
 *.max                binary
 *.mb                 binary
-*.obj                binary
+*.obj filter=lfs diff=lfs merge=lfs -text
 *.ply                binary
 *.skp                binary
 *.stl                binary

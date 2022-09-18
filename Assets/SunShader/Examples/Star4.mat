@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Star4
+  m_Shader: {fileID: 4800000, guid: e319a5318b7e62f48986b67b4ba1d830, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Detail: 0
+    - _Glow: 16.375
+    - _Radius: 0
+    - _RayGlow: 4.892857
+    - _RayRing: 6.303571
+    - _RayString: 2.7821426
+    - _Rays: 4.892857
+    - _Seed: 14
+    - _SpeedHi: 2
+    - _SpeedLow: 2
+    - _SpeedRay: 5
+    - _SpeedRing: 1.5285715
+    - _Zoom: 1
+    m_Colors:
+    - _Base: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Dark: {r: 0, g: 0, b: 0, a: 1}
+    - _Light: {r: 1, g: 1, b: 1, a: 1}
+    - _Ray: {r: 1, g: 0.6, b: 0.1, a: 1}
+    - _RayLight: {r: 1, g: 0.9411765, b: 1, a: 1}
