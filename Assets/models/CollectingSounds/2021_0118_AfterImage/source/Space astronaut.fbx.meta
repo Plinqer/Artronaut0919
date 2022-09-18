@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 1ff5bcd7d89ce7840a3d8eb0e1d265c4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_alpha_a
+    second: {fileID: 2100000, guid: cc271283ac730524b9a27ee9b71221fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_alpha_aa
+    second: {fileID: 2100000, guid: 91f37fbe140ebc24eac210b16860f508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_boot_c
+    second: {fileID: 2100000, guid: d77ed36aa57082d49bb1e2a86b53f90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_glove_c
+    second: {fileID: 2100000, guid: 7afe5512d92ab3046bf345f4be29fb5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_headgear_b
+    second: {fileID: 2100000, guid: 40641687c0f2028428943928b520643c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_headgear_g
+    second: {fileID: 2100000, guid: 0492cf62be9e62049913613398a89f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_loadout_b_mtl
+    second: {fileID: 2100000, guid: f319dddc4d44ad24eb904f458b1ee058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_loadout_c
+    second: {fileID: 2100000, guid: e2aa815a41b8d54498055dbb291c9228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_loadout_d
+    second: {fileID: 2100000, guid: 6dd19e19f31a55948befa732a1280da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_lowerbody_g
+    second: {fileID: 2100000, guid: a4cfd519789a52d40a3cff80114a226d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_us_space_upperbody_g
+    second: {fileID: 2100000, guid: f6006a1c97da8b942972ebee790bdbfe, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_alpha_a_col
+    second: {fileID: 2800000, guid: 03b8aa878b0f32a479d849f279481528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_alpha_aa_col
+    second: {fileID: 2800000, guid: e7f06d29ed6b1d84facb70f8c5a7fa7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_boot_c_col
+    second: {fileID: 2800000, guid: 14f3baf34c947ff42972104823df04aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_glove_a_nml
+    second: {fileID: 2800000, guid: ff1aa2da15a16874dbaaf59ae3ecfd1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_glove_c_col
+    second: {fileID: 2800000, guid: d24168a2665377545b26f5d35cc41f66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_headgear_a_nml
+    second: {fileID: 2800000, guid: c0d9f1da7784f9849b361db048c11e57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_headgear_b_col
+    second: {fileID: 2800000, guid: 8e5744f6bece24345a9bfdba7cfc773b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_headgear_g_col
+    second: {fileID: 2800000, guid: b04576dea4ecd624ca7e9c473d03356f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_loadout_c_col
+    second: {fileID: 2800000, guid: 8d66b5561b9c8bc4e92c1e1985a9b627, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_loadout_d_col
+    second: {fileID: 2800000, guid: 53717b707a65f224ca01998315dd20ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_lowerbody_a_nml
+    second: {fileID: 2800000, guid: 17daf0fccefe7284d85c7cd3f7ba9462, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_lowerbody_g_col
+    second: {fileID: 2800000, guid: eaa62ff519632814ab7cdb13070d5e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_upperbody_b_nml
+    second: {fileID: 2800000, guid: c78a8e4251127bd4586690a937d1f650, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: us_space_upperbody_g_col
+    second: {fileID: 2800000, guid: 4786348e0562a1946909fd8376ac2b46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_alpha_a_spc-rgb&us_~8133de57
+    second: {fileID: 2800000, guid: 8a62df5035879484f9cdce746a7d1d72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_boot_a_spc-rgb&us_s~cbd0df62
+    second: {fileID: 2800000, guid: 18d1f0a423935b84692059f3656615a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_glove_a_spc-rgb&us_~82d115c7
+    second: {fileID: 2800000, guid: 9afe03f47ececd041bec6fc97c3a1073, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_headgear_a_spc-rgb&~7bf2f14b
+    second: {fileID: 2800000, guid: fbe592e60bd69524f8cf4201ff136a78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_headgear_b_spc-rgb&~e6ae714d
+    second: {fileID: 2800000, guid: 4fba86f9b8e71e34786151f7e8ecd06b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_loadout_a_spc-rgb&u~67bb7e10
+    second: {fileID: 2800000, guid: 46ab4d23510e0ab42a020cb6f6db49e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_loadout_b_spc-rgb&u~34acf32e
+    second: {fileID: 2800000, guid: 523fffcbfd845904ca955e21f2638254, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_lowerbody_a_spc-rgb~bf531261
+    second: {fileID: 2800000, guid: 5980591037be70b4b91736577467ea6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ~us_space_upperbody_b_spc-rgb~64a2bcd7
+    second: {fileID: 2800000, guid: f971641a1d14688439a9e5e6acbd6e01, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
